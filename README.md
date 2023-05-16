@@ -1,5 +1,5 @@
 # Fairly
-Example Components that I created while working with Fairly.
+Components that I created while working with Fairly.
 
 Fairly is a SaaS platform that enambles talent acquisition teams to quickly find and hire high quaility, diverse talent. 
 
