@@ -1,6 +1,7 @@
 # Fairly
 Example Components that I created while working with Fairly.
 
-Each Folder Contains a Screen shot of the Components UI in the React Folder as well as the Code files it is comprised of.
+Fairly is a SaaS platform that enambles talent acquisition teams to quickly find and hire high quaility, diverse talent. 
 
-The .Net Folder for each component contains the Code I wrote for the API Controllers, Service Files, Interfaces and Models. 
+I worked on creating the MVP, and due to the proprietary nature, I can only provide code snippets of portions that I worked on.
+This repository contains SQL, .NET, and React code for the Users Registartion and Login, Paypal donations page, and the view for admin to create new charitable funds. 
