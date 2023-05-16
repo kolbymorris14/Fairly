@@ -58,9 +58,9 @@ namespace Sabio.Services
         {
             int userId = 0;
             string password = model.Password;
-            string salt = BCrypt.BCryptHelper.GenerateSalt();
-            //salt params remvoed 
-            string hashedPassword = BCrypt.BCryptHelper.HashPassword(password, salt);
+            
+            //Password Hashed Here Removed for Security
+            
             string procName = "[dbo].[Users_Insert]";
 
             _dataProvider.ExecuteNonQuery(
